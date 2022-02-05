@@ -14,17 +14,12 @@ A collection of React Hooks carrying complex JavaScript queries for handling awe
 npm install react-dom-hooks
 ```
 
-```javascript
-import {useHorizontalSectionScroll} from "react-dom-hooks"
-```
-
 ## List of Hooks
-
-[useHorizontalSectionScroll]: /useHorizontalSectionScroll "useHorizontalSectionScroll"
-[somewhere]: https://varchasvipandey.com	"Something"
-
-
 
 ### useHorizontalSectionScroll
 
-Code sandbox link: https://codesandbox.com/something
+```typescript
+import {useHorizontalSectionScroll} from "react-dom-hooks"
+```
+
+[CodeSandbox](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
