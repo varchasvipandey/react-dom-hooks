@@ -1,6 +1,6 @@
 {
   "name": "react-dom-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events. Package written in TypeScript to support all the modern needs.",
   "main": "index.ts",
   "peerDependencies": {
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/varchasvipandey/react-dom-hooks/issues"
   },
-  "homepage": "https://github.com/varchasvipandey/react-dom-hooks/issues#readme"
+  "homepage": "https://github.com/varchasvipandey/react-dom-hooks#readme"
 }
