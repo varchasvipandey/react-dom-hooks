@@ -20,8 +20,7 @@ import {useHorizontalSectionScroll} from "react-dom-hooks"
 
 ## List of Hooks
 
-1. [useHorizontalSectionScroll]: /useHorizontalSectionScroll	"useHorizontalSectionScroll"
-
+1. [useHorizontalSectionScroll]: /useHorizontalSectionScroll "useHorizontalSectionScroll"
 
 ### useHorizontalSectionScroll
 
