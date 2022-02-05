@@ -1,0 +1,14 @@
+{
+  "name": "react-dom-essentials",
+  "version": "1.0.0",
+  "description": "A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events",
+  "main": "index.ts",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "author": {
+    "name": "Varchasvi Pandey",
+    "email": "developer.varchasvi@gmail.com",
+    "url": "https://varchasvipandey.com"
+  }
+}
