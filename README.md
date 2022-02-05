@@ -22,4 +22,4 @@ npm install react-dom-hooks
 import {useHorizontalSectionScroll} from "react-dom-hooks"
 ```
 
-[CodeSandbox](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
+[Demo for useHorizontalSectionScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
