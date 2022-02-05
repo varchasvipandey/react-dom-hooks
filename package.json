@@ -1,5 +1,5 @@
 {
-  "name": "react-dom-essentials",
+  "name": "react-dom-hooks",
   "version": "1.0.0",
   "description": "A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events",
   "main": "index.ts",
@@ -10,5 +10,6 @@
     "name": "Varchasvi Pandey",
     "email": "developer.varchasvi@gmail.com",
     "url": "https://varchasvipandey.com"
-  }
+  },
+  "license": "MIT"
 }
