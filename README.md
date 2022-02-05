@@ -7,3 +7,21 @@
 ![Npm](https://img.shields.io/npm/dm/react-dom-hooks?style=for-the-badge)
 
 A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events. Package written in TypeScript to support all the modern needs.
+
+## Getting started
+
+```shell
+npm install react-dom-hooks
+```
+
+```javascript
+import {useHorizontalSectionScroll} from "react-dom-hooks"
+```
+
+## List of Hooks
+
+1. [useHorizontalSection]: /useHorizontalSectionScroll
+
+### useHorizontalSectionScroll
+
+Code sandbox link: https://codesandbox.com/something
