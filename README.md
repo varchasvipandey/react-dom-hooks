@@ -21,6 +21,9 @@ import {useHorizontalSectionScroll} from "react-dom-hooks"
 ## List of Hooks
 
 [useHorizontalSectionScroll]: /useHorizontalSectionScroll "useHorizontalSectionScroll"
+[somewhere]: https://varchasvipandey.com	"Something"
+
+
 
 ### useHorizontalSectionScroll
 
