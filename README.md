@@ -1,6 +1,6 @@
 # React DOM Hooks
 
-![react-use-medium logo](https://github.com/varchasvipandey/images/blob/master/react-dom-hooks%20varchasvi%20pandey.jpg?raw=true)
+![react-dom-hooks banner image](https://github.com/varchasvipandey/images/blob/master/react-dom-hooks%20varchasvi%20pandey.jpg?raw=true)
 
 ![Npm](https://img.shields.io/npm/v/react-dom-hooks?logo=npm&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/varchasvipandey/react-dom-hooks?style=for-the-badge)
@@ -30,4 +30,4 @@ import {useHorizontalSectionScroll} from "react-dom-hooks"
 import {useVerticalSectionScroll} from "react-dom-hooks"
 ```
 
-[Demo for useVerticalSectionScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
+[Demo for useVerticalSectionScroll](https://codesandbox.io/s/billowing-forest-ud2pf?file=/src/styles.ts)
