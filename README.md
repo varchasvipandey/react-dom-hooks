@@ -23,3 +23,11 @@ import {useHorizontalSectionScroll} from "react-dom-hooks"
 ```
 
 [Demo for useHorizontalSectionScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
+
+### useVerticalSectionScroll
+
+```typescript
+import {useVerticalSectionScroll} from "react-dom-hooks"
+```
+
+[Demo for useVerticalSectionScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)

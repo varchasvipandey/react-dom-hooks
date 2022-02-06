@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/varchasvipandey/react-dom-hooks/issues"
   },
-  "homepage": "https://github.com/varchasvipandey/react-dom-hooks#readme"
+  "homepage": "https://github.com/varchasvipandey/react-dom-hooks#readme",
+  "keywords": [
+    "react",
+    "dom",
+    "hooks",
+    "events",
+    "react-dom-hooks"
+  ]
 }
