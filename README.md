@@ -22,7 +22,7 @@ npm install react-dom-hooks
 import {useHorizontalScroll} from "react-dom-hooks"
 ```
 
-[Demo for useHorizontalScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
+[Demo for useHorizontalScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/HorizontalScroll/HorizontalScroll.tsx)
 
 ### useVerticalScroll
 
@@ -30,4 +30,4 @@ import {useHorizontalScroll} from "react-dom-hooks"
 import {useVerticalScroll} from "react-dom-hooks"
 ```
 
-[Demo for useVerticalScroll](https://codesandbox.io/s/billowing-forest-ud2pf?file=/src/styles.ts)
+[Demo for useVerticalScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/VerticalScroll/VerticalScroll.tsx)
