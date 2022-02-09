@@ -16,18 +16,18 @@ npm install react-dom-hooks
 
 ## List of Hooks
 
-### useHorizontalSectionScroll
+### useHorizontalScroll
 
 ```typescript
-import {useHorizontalSectionScroll} from "react-dom-hooks"
+import {useHorizontalScroll} from "react-dom-hooks"
 ```
 
-[Demo for useHorizontalSectionScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
+[Demo for useHorizontalScroll](https://codesandbox.io/s/wonderful-kapitsa-c0785?file=/src/App.tsx)
 
-### useVerticalSectionScroll
+### useVerticalScroll
 
 ```typescript
-import {useVerticalSectionScroll} from "react-dom-hooks"
+import {useVerticalScroll} from "react-dom-hooks"
 ```
 
-[Demo for useVerticalSectionScroll](https://codesandbox.io/s/billowing-forest-ud2pf?file=/src/styles.ts)
+[Demo for useVerticalScroll](https://codesandbox.io/s/billowing-forest-ud2pf?file=/src/styles.ts)

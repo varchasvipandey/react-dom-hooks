@@ -1,2 +1,2 @@
-export { default as useHorizontalSectionScroll } from "./useHorizontalSectionScroll";
-export { default as useVerticalSectionScroll } from "./useVerticalSectionScroll";
+export { default as useHorizontalScroll } from "./useHorizontalScroll";
+export { default as useVerticalScroll } from "./useVerticalScroll";
