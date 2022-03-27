@@ -31,3 +31,19 @@ import {useVerticalScroll} from "react-dom-hooks"
 ```
 
 [Demo for useVerticalScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/VerticalScroll/VerticalScroll.tsx)
+
+### useHorizontalAutoLoopScroll
+
+```typescript
+import {useHorizontalAutoLoopScroll} from "react-dom-hooks"
+```
+
+[Demo for useHorizontalAutoLoopScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/HorizontalAutoLoopScroll/HorizontalAutoLoopScroll.tsx)
+
+### useCarousel
+
+```typescript
+import {useCarousel} from "react-dom-hooks"
+```
+
+[Demo for useCarousel](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/Carousel/Carousel.tsx)
