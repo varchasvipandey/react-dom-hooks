@@ -18,7 +18,7 @@ React DOM Hooks provides a set of UI functionalities which makes it a UI support
 
 ## Attention
 
-React DOM Hooks manipulates the DOM. Hooks provided in this package works on HTML IDs and classes more than React refs. If you are facing major performance issues after using any of the provided hooks from this package, we would recommend you to switch to a different library or package. But in most cases, this does not impact the performance at all. All the hooks available in this package got tested on multiple applications of different sizes and proficiency levels.
+React DOM Hooks manipulates the DOM. Hooks provided in this package work on HTML IDs and classes more than React refs. If you are facing major performance issues after using any of the provided hooks from this package, we would recommend you to switch to a different library or package. But in most cases, this does not impact the performance at all. All the hooks available in this package got tested on multiple applications of different sizes and proficiency levels.
 
 &nbsp;
 
