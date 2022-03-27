@@ -28,6 +28,8 @@ React DOM Hooks manipulates the DOM. Hooks provided in this package work on HTML
 npm install react-dom-hooks
 ```
 
+&nbsp;
+
 ## List of Hooks
 
 ### useHorizontalScroll
