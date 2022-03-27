@@ -6,13 +6,13 @@
 ![GitHub](https://img.shields.io/github/license/varchasvipandey/react-dom-hooks?style=for-the-badge)
 ![Npm](https://img.shields.io/npm/dm/react-dom-hooks?style=for-the-badge)
 
-A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events. Package written in TypeScript to support all the modern needs.
+A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events. The package is written in TypeScript to support all modern needs.
 
 &nbsp;
 
 ## About
 
-React DOM Hooks provides a set of UI functionalities which makes it a UI supporting library. APIs provided by each hook can be connected to any UI element. This makes achieving complex UI functionalities easier without restricting the idea to a particular design making it totally unopinionated.
+React DOM Hooks provides a set of UI functionalities that makes it a UI supporting library. APIs provided by each hook can be connected to any UI element. This makes achieving complex UI functionalities easier without restricting the idea to a particular design making it totally unopinionated.
 
 &nbsp;
 
