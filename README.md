@@ -145,4 +145,4 @@ import {useHorizontalAutoSnapScroll} from "react-dom-hooks"
 | :----------- | :--------------------------------------------- | :-------------------------------------------- |
 | containerRef | React.MutableRefObject<HTMLDivElement \| null> | ref to be applied on the scrollable container |
 
-[Demo for useHorizontalAutoSnapScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/Carousel/Carousel.tsx)
+[Demo for useHorizontalAutoSnapScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/HorizontalAutoSnapScroll/HorizontalAutoSnapScroll.tsx)
