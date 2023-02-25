@@ -30,7 +30,9 @@ npm install react-dom-hooks
 
 &nbsp;
 
-## List of Hooks
+
+
+# List of Hooks
 
 ### useHorizontalScroll
 
@@ -54,6 +56,10 @@ import {useHorizontalScroll} from "react-dom-hooks"
 
 &nbsp;
 
+____
+
+&nbsp;
+
 ### useVerticalScroll
 
 ```typescript
@@ -73,6 +79,10 @@ import {useVerticalScroll} from "react-dom-hooks"
 | handleScroll |  function | Takes scroll direction as "up" or "down" |
 
 [Demo for useVerticalScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/VerticalScroll/VerticalScroll.tsx)
+
+&nbsp;
+
+____
 
 &nbsp;
 
@@ -101,6 +111,10 @@ import {useHorizontalAutoLoopScroll} from "react-dom-hooks"
 
 &nbsp;
 
+____
+
+&nbsp;
+
 ### useCarousel
 
 ```typescript
@@ -124,7 +138,11 @@ import {useCarousel} from "react-dom-hooks"
 
 [Demo for useCarousel](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/Carousel/Carousel.tsx)
 
+&nbsp;
 
+____
+
+&nbsp;
 
 ### useHorizontalAutoSnapScroll
 
