@@ -124,4 +124,25 @@ import {useCarousel} from "react-dom-hooks"
 
 [Demo for useCarousel](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/Carousel/Carousel.tsx)
 
-&nbsp;
+
+
+### useHorizontalAutoSnapScroll
+
+```typescript
+import {useHorizontalAutoSnapScroll} from "react-dom-hooks"
+```
+
+#### useHorizontalAutoSnapScroll Props
+
+| Name         | Type   | Description                                                |
+| :----------- | :----- | :--------------------------------------------------------- |
+| scrollLeftBy | number | Should match (approximately) with the child width          |
+| snapDelay    | number | (in ms), i.e. 2000 = 2 seconds. Controls auto-scroll delay |
+
+#### useHorizontalAutoSnapScroll  Handlers and Options
+
+| Name         | Type                                           | Description                                   |
+| :----------- | :--------------------------------------------- | :-------------------------------------------- |
+| containerRef | React.MutableRefObject<HTMLDivElement \| null> | ref to be applied on the scrollable container |
+
+[Demo for useHorizontalAutoSnapScroll](https://codesandbox.io/s/react-dom-hooks-ud2pf?file=/src/Carousel/Carousel.tsx)
