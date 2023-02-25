@@ -1,6 +1,6 @@
 {
   "name": "react-dom-hooks",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A collection of React Hooks carrying complex JavaScript queries for handling awesome DOM events. Package written in TypeScript to support all the modern needs.",
   "main": "dist/index.js",
   "scripts": {
